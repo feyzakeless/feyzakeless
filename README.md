@@ -4,10 +4,10 @@
 
 <br> 
 
-* I am currently working on javascript.
-* I am learning react.js, node.js and sass technologies. 
-* I participate in [hackkerank](https://www.hackerrank.com/fyzakeles), freecodecamp, coderbyte challenges to improve myself.
-* How to reach me  fyzakeles@gmail.com
+* :computer: I am currently working on javascript.
+* :page_facing_up: I am learning react.js, node.js and sass technologies. 
+* :zap: I participate in [hackkerank](https://www.hackerrank.com/fyzakeles), freecodecamp, coderbyte challenges to improve myself.
+* :e-mail: How to reach me  fyzakeles@gmail.com
 
 <br>
 
