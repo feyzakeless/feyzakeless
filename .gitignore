@@ -1,4 +1,5 @@
 # img
 *.jpg
 *.png
+*.svg
 img/
