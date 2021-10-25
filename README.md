@@ -22,8 +22,9 @@
 
 ### Connect With Me :
 
-<a href="https://linkedin.com/in/feyzanur-kele%C5%9F-09127013a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feyzanur-keles" height="30" width="30" /></a> &nbsp;
-<a href="https://www.hackerrank.com/fyzakeles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="feyzanur-keles" height="30" width="30" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/feyzakeless/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feyzanur-keles" height="30" width="30" /></a> 
+<a href="mailto:fyzakeles@gmail.com" target="blank"><img align="center" src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" alt="feyzanur-keles" height="70" width="70" /></a>
+<a href="https://www.hackerrank.com/fyzakeles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="feyzanur-keles" height="30" width="30" /></a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/feyza.keless/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="feyzanur-keles" height="30" width="30" /></a> &nbsp;
 
 
