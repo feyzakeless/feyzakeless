@@ -5,7 +5,7 @@
 <br> 
 
 * :computer: I am currently working on javascript.
-* :page_facing_up: I am learning react.js, node.js and sass technologies. 
+* :page_facing_up: I am learning react.js and sass technologies. 
 * :zap: I participate in [hackkerank](https://www.hackerrank.com/fyzakeles), freecodecamp, coderbyte challenges to improve myself.
 * :e-mail: How to reach me  fyzakeles@gmail.com
 
@@ -13,7 +13,7 @@
 
 ### Technologies :
 <div>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/ios/50/4a90e2/jquery.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/offices/50/000000/php-logo.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/ios/50/4a90e2/jquery.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/offices/50/000000/php-logo.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </div>
 
 
