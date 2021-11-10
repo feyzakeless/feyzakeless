@@ -29,4 +29,9 @@
 
 
 
-<br>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feyzakeless&show_icons=true&theme=radical&locale=en&layout=compact" alt="feyzanurkeles" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feyzakeless&show_icons=true&theme=dark&locale=en" alt="feyzanurkeles" width="50%" /></p>
+
