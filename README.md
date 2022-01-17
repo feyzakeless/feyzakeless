@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Feyza <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-<h2 align="center"> Jr Frontend Developer from Istanbul/Turkey </h2>
+<h2 align="center"> Jr FullStack Developer from Istanbul/Turkey </h2>
 
 <br> 
 
