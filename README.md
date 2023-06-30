@@ -4,8 +4,8 @@
 
 <br> 
 
-* :computer: I am currently working on ReactJS.
-* :zap: I participate in [hackkerank](https://www.hackerrank.com/fyzakeles), freecodecamp, coderbyte challenges to improve myself.
+* I am currently working at [Gelecek Varlık Yönetimi A.Ş](https://www.linkedin.com/company/gelecek-varlik-yonetimi-as/about/)
+* :computer: I am developing using ReactJS, Javascript, Jquery and .NET, MSSQL.
 * :e-mail: How to reach me  fyzakeles@gmail.com
 
 <br>
