@@ -1,11 +1,10 @@
 <h1 align="center"> Hi, I'm Feyza <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-<h2 align="center"> Jr FullStack Developer from Istanbul/Turkey </h2>
+<h2 align="center"> Software Developer from Istanbul/Turkey </h2>
 
 <br> 
 
-* :computer: I am currently working on javascript.
-* :page_facing_up: I am learning react.js and .NET technologies. 
+* :computer: I am currently working on ReactJS.
 * :zap: I participate in [hackkerank](https://www.hackerrank.com/fyzakeles), freecodecamp, coderbyte challenges to improve myself.
 * :e-mail: How to reach me  fyzakeles@gmail.com
 
@@ -13,7 +12,7 @@
 
 ### Technologies And Tools :
 <div>
-<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="feyzanur-keles" height="50" width="50" /> &nbsp; <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="feyzanur-keles" height="50" width="50" /> &nbsp; <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/bootstrap.svg" alt="feyzanur-keles" height="50" width="50" /> &nbsp; <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="feyzanur-keles" height="50" width="50" /> <img src="https://img.icons8.com/ios/50/4a90e2/jquery.png"/> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="feyzanur-keles" height="50" width="50" /> &nbsp; <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Framework/dotnet.svg" alt="feyzanur-keles" height="50" width="50" /> &nbsp; <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/csharp.svg" alt="feyzanur-keles" height="50" width="50" /> &nbsp; <img src="https://img.icons8.com/offices/50/000000/php-logo.png"/> &nbsp; <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/git.svg" alt="feyzanur-keles" height="50" width="50" /> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/>
+<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="feyzanur-keles" height="50" width="50" /> &nbsp <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="feyzanur-keles" height="50" width="50" /> &nbsp; <img src="https://img.icons8.com/ios/50/4a90e2/jquery.png"/> &nbsp; <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="feyzanur-keles" height="50" width="50" /> &nbsp; <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="feyzanur-keles" height="50" width="50" /> &nbsp; <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/bootstrap.svg" alt="feyzanur-keles" height="50" width="50" /> &nbsp; <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Framework/dotnet.svg" alt="feyzanur-keles" height="50" width="50" /> &nbsp; <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/csharp.svg" alt="feyzanur-keles" height="50" width="50" /> &nbsp; <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Software/postman.svg" alt="feyzanur-keles" height="50" width="50" /> &nbsp; <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/git.svg" alt="feyzanur-keles" height="50" width="50" /> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/>
 </div>
 
 
